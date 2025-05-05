@@ -8,3 +8,6 @@ Initialchatbot é uma primeira tentativa de criar um chatbot com IA utilizando t
     🧠 AI Chatbot: Um bot mais avançado, com respostas geradas por inteligência artificial.
 
 Este projeto serve como base para experimentos e aprendizado sobre construção de agentes conversacionais com diferentes níveis de complexidade.
+
+
+    ⚠️ Atenção: Para utilizar o modo AI Chatbot, você precisará de uma API key válida da OpenAI.
