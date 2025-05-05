@@ -1,4 +1,4 @@
-# initialchatbot
+# initial chatbot
 Initialchatbot é uma primeira tentativa de criar um chatbot com IA utilizando tecnologias da OpenAI. O projeto inclui três estilos diferentes de aprendizado e resposta:
 
     🤖 Dummy Bot: Um bot básico que apenas repete a si mesmo, útil para testes iniciais.
