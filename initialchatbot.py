@@ -35,7 +35,7 @@ if __name__ == '__main__':
 
     #bot = DummyChatBot()
     #bot = MirrorChatBot()
-    bot = AIChatBot(prompt="You are a helpful assistant") #o prompt fique livre pra definir oq quiser pra atribuir um "carater" ao chatbot
+    bot = AIChatBot(prompt="You are a helpful assistant") #para esse prompt fique livre pra definir oq quiser pra atribuir um "carater" ao chatbot
     while True:
 
         message = input("You:")
